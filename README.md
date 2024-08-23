@@ -12,11 +12,11 @@ To Implement Linear and Polynomial Trend Estiamtion Using Python.
 2. Load the dataset
 3. Calculate the linear trend values using least square method
 4. Calculate the polynomial trend values using least square method
-5.End the program
+5. End the program
 
 ## PROGRAM:
 ```python
-A - LINEAR TREND ESTIMATION
+# LINEAR TREND ESTIMATION
 
 import pandas as pd
 import numpy as np
@@ -47,7 +47,7 @@ plt.tight_layout()
 plt.show()
 
 
-B- POLYNOMIAL TREND ESTIMATION
+# POLYNOMIAL TREND ESTIMATION
 
 import pandas as pd
 import numpy as np
